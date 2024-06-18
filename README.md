@@ -28,15 +28,6 @@ The project involves writing a program to calculate the average BMI (Body Mass I
 - `data/`: The dataset used for BMI calculations.
 - `report/`: The project report discussing the methods, analysis, and conclusions.
 
-## Getting Started
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/BMI-Calculation-Performance-Analysis.git
-    cd BMI-Calculation-Performance-Analysis
-    ```
-
-2. Navigate to the `code` directory and follow the instructions in the README to run each approach.
 
 ## Analysis and Results
 
